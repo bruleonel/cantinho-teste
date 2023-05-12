@@ -24,7 +24,6 @@ Agora que vimos que essa funcionalidade funciona, o que mais precisamos testar? 
 
 <b>Exemplo:</b>
 
-````
 Funcionalidade: Cadastro
 
 Comportamento esperado: Ao digitar e-mail, nome completo, usuário e senha e confirmar a senha, o usuário será cadastrado na plataforma.
@@ -34,6 +33,10 @@ Quando o cadastro for efetuado corretamente, o usuário deverá ser redirecionad
 Todos os campos são obrigatórios e o sistema deve indicar caso um campo não tenha sido digitado.
 
 A senha deve ter no mínimo 8 caracteres.
-````
+
+![MicrosoftTeams-image](https://github.com/bruleonel/cantinho-teste/assets/104650333/0d790b2d-01fd-45c3-95a0-50439ed10d63)
+
+*Deixei essa imagem do fluxo que eu criei com a correção da minha superior.*
+
 
 <a href="https://bruleonel.github.io/cantinho-teste/">Veja</a>
